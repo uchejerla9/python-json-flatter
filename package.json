@@ -1,0 +1,8 @@
+{
+  "name": "json-processor",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  }
+}
